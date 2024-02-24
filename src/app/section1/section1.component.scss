@@ -1,0 +1,40 @@
+.section1-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+.section1-h4{
+  color: blue;
+  font-size: 14px;
+}
+.section1-h1{
+  color: black;
+  font-size: 60px;
+}
+.section1-p{
+  color: gray;
+  font-size: 18px;
+}
+.section1-button1{
+  width: 188px;
+  height: 44px;
+  color: white;
+  background: #0E1133;
+  border: unset;
+  font-size: 15px;
+  border-radius: 5px;
+}
+.section1-button2{
+  width: 221px;
+  height: 44px;
+  color: #0E1133;
+  background: white;
+  border: 2px solid #0E1133;
+  border-radius: 5px;
+  font-size: 15px;
+  margin-left: 15px;
+}
+.section1-img{
+  margin-left: 100px
+}

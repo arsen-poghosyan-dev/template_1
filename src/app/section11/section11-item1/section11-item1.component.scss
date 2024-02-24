@@ -1,0 +1,33 @@
+.section11-item1{
+  display: flex;
+  justify-content: center;
+}
+.button{
+  width: 200px;
+  height: 47px;
+  border-radius: 5px;
+  font-size: 15px;
+  color: #0E1133;
+  border: unset;
+  background: white;
+  margin-left: -25px;
+}
+.button:hover{
+  background: #EEF1F6;
+  box-shadow: 10px 5px 5px rgba(184, 192, 184, 0.5);
+}
+.button1{
+  width: 200px;
+  height: 47px;
+  border-radius: 5px;
+  font-size: 15px;
+  color: #0E1133;
+  border: unset;
+  background: #EEF1F6;
+  margin-left: 25px;
+  border: 1px solid;
+}
+.button1:hover{
+  background: white;
+  box-shadow: 10px 5px 5px rgba(184, 192, 184, 0.5);
+}

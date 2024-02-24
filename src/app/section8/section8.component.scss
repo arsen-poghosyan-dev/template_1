@@ -1,0 +1,29 @@
+.section8-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 100px;
+}
+.section8-span{
+  font-size: 44px;
+  font-weight: 600;
+  color: #0E1133;
+}
+.section8-span1{
+  font-size: 18px;
+  color: #505056;
+  margin-top: 10px;
+  font-weight: 600;
+}
+.section8-flex{
+  display: flex;
+  justify-content: center;
+}
+.section8-around{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 73%;
+  margin-top: 60px;
+}
